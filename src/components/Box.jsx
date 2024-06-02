@@ -5,8 +5,10 @@ const styles = {
 }
 
     return (
-        <div className="box" style={styles} onClick={props.toggle}>
-            
-        </div>
+        <div 
+            className="box" 
+            style={styles} 
+            onClick={props.toggle}
+        ></div>
     )
 }
