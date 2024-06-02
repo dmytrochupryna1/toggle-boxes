@@ -1,7 +1,7 @@
 /* .body {} */
 .box {
   display: inline-block;
-  box-shadow: 0 10px 10px 5px #848484;
+  box-shadow: 0 0px 20px 2px #5348b9;
   border: 2px solid #000;
   width: 200px;
   height: 200px;
